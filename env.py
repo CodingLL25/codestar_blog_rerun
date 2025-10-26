@@ -8,5 +8,5 @@ os.environ.setdefault("SECRET_KEY", "banana")
 
 os.environ.setdefault(
     "CLOUDINARY_URL",
-    "cloudinary://674742828459332:XtplpawDUPh7zcCzuJvD7XuNm7w@dtblf2tm2",
+    "cloudinary://674742828459332:XtplpawDUPh7zcCzuJvD7XuNm7w@dwqnvn8sx",
 )
